@@ -1,0 +1,15 @@
+{
+  "name": "f1-manager-bot",
+  "version": "1.0.0",
+  "description": "Advanced F1 Simulation Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
